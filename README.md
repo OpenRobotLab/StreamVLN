@@ -40,7 +40,7 @@
 We test under the following environment:
 * Python 3.9
 * Pytorch 2.1.2
-* CUDA Version 12.1 
+* CUDA Version 12.4 
 
 1. **Preparing  a conda env with `Python3.9` & Install habitat-sim and habitat-lab**
     ```bash
@@ -106,7 +106,7 @@ sh streamvln_eval_multi_gpu.sh
 - ✅ Release the arXiv paper (Jul. 8, 2025)
 - ✅ Provide inference scripts and model checkpoints
 - ⏳ Release training code and configurations (**Coming Soon**)
-- ⏳ Release training Data
+- ⏳ Release training data
 
 
 ## 🔗 Citation

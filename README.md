@@ -21,8 +21,12 @@
 
 <div id="top" align="center">
 
-[![Project](https://img.shields.io/badge/Project-%23FF9E7D?style=flat&logoColor=%23A2D2FF)](https://streamvln.github.io/)
-[![arXiv](https://img.shields.io/badge/Arxiv-%23A2D2FF?style=flat&logoColor=%23FF9E7D)](http://arxiv.org/abs/2507.05240)
+
+[![arxiv](https://img.shields.io/badge/arXiv-red?logo=arxiv)](http://arxiv.org/abs/2507.05240)
+[![project](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://streamvln.github.io/)
+[![video-en](https://img.shields.io/badge/Video-D33847?logo=youtube)](https://www.youtube.com/watch?v=gG3mpefOBjc)
+
+
 
 </div>
 

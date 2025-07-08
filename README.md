@@ -99,10 +99,10 @@ sh streamvln_eval_multi_gpu.sh
 
 ## 📝 TODO List
 
-- ✅ Release the arXiv paper (July 2025)
+- ✅ Release the arXiv paper (Jul. 8, 2025)
 - ✅ Provide inference scripts and model checkpoints
-- ⏳ Release training code and configurations (Coming Soon)
-- ⏳ Release Training Data
+- ⏳ Release training code and configurations (**Coming Soon**)
+- ⏳ Release training Data
 
 
 ## 🔗 Citation

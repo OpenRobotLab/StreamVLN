@@ -24,14 +24,14 @@
 
 [![arxiv](https://img.shields.io/badge/arXiv-red?logo=arxiv)](http://arxiv.org/abs/2507.05240)
 [![project](https://img.shields.io/badge/Project-0065D3?logo=rocket&logoColor=white)](https://streamvln.github.io/)
-[![video-en](https://img.shields.io/badge/Video-D33847?logo=youtube)](https://www.youtube.com/watch?v=gG3mpefOBjc)
+[![video-en](https://img.shields.io/badge/Video-D33846?logo=youtube)](https://www.youtube.com/watch?v=gG3mpefOBjc)
 
 
 
 </div>
 
 ## 🏠 About
-<strong><em>StreamVLN</em></strong> generates action outputs from continuous video input in an online, multi-turn dialogue manner. Built on LLaVA-Video as the foundational Video-LLM, we extend it for interleaved vision, language, and action modeling. For both effective context modeling of long sequence and efficient computation for real-time interaction, StreamVLN has: (1) a fast-streaming dialogue context with a sliding-window KV cache; and (2) a slow-updating memory via token pruning.
+<strong><em>StreamVLN</em></strong> generates action outputs from continuous video input in an online, multi-turn dialogue manner. Built on **LLaVA-Video** as the foundational Video-LLM, we extend it for interleaved vision, language, and action modeling. For both effective context modeling of long sequence and efficient computation for real-time interaction, StreamVLN has: (1) a **fast-streaming** dialogue context with a sliding-window KV cache; and (2) a **slow-updating** memory via token pruning.
 <div style="text-align: center;">
     <img src="assets/teaser.gif" width=100% >
 </div>
